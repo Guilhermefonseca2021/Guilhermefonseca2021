@@ -2,7 +2,7 @@
 fala dev! reposito aqui tudo que acho inovador e util no mercado<br>- 🚀 Hoje crio sites de captacao de clientes com fundamentacao em front-end<br>- 🎯 Estudando React
 
 
-ca2021&theme=react&hide_border=false&include_all_commits=false&count_private=false)<br/>
+<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=guilhermefonseca2021&theme=react&hide_border=false)<br/>
 ![] ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 	![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=Adobe%20XD&logoColor=#FF61F6) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![jQuery](https://img.shields.io/badge/jquery-%230769AD.svg?style=for-the-badge&logo=jquery&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 # 📊 GitHub Stats:
