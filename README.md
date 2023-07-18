@@ -5,8 +5,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/guilherme fonseca" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme fonseca" height="30" width="40" /></a>
-<a href="https://instagram.com/codigopai" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codigopai" height="30" width="40" /></a>
+<a href="linkedin.com/in/guilherme-fonseca-santos-a49594207/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="guilherme fonseca" height="30" width="40" /></a>
+<a href="https://www.instagram.com/guihsantos2/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="codigopai" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
