@@ -1,5 +1,5 @@
 <h1 align="center">about me: guilhermefonseca2021</h1>
-<h3 align="center">- 🚀 Hoje crio sites de captacao de clientes com fundamentacao em front-end - 🎯 Estudando React</h3>
+<h3 align="center">- 🚀web developer full-atack - 🎯 React e na turma ignite </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermefonseca2021&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermefonseca2021" /> </p>
 
