@@ -1,5 +1,5 @@
-<h1 align="center">about me: guilhermefonseca2021</h1>
-<h3 align="center">🚀 Front end, visao analitica para Back end🎯 React, Node express, SQLlite, MongoDB</h3>
+<h1 align="center">Denvolvedor WEB / MObile</h1>
+<h3 align="center">🚀 Front end, visao analitica para Back end🎯 React, Node express, React Native, SQLlite, MongoDB</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=guilhermefonseca2021&label=Profile%20views&color=0e75b6&style=flat" alt="guilhermefonseca2021" /> </p>
 
