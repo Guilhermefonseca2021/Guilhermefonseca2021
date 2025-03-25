@@ -1,10 +1,4 @@
 <div align="center">
-  <img height="150" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjNvNWlpZGU1a3FiZ3AyZnJvYjBqOHYyZXJzc2Zzd3JwZGw4bDFocCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/qgQUggAC3Pfv687qPC/giphy.webp"  />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/guilherme-fonseca-dos-santos-a49594207/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
   </a>
@@ -18,21 +12,11 @@
 
 ###
 
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=Guilhermefonseca2021.Guilhermefonseca2021&"  />
-</div>
+<h3 align="left">🧑‍💻  About Me</h3>
 
 ###
 
-<h1 align="center">hey there 👋</h1>
-
-###
-
-<h3 align="left">👩‍💻  About Me</h3>
-
-###
-
-<p align="left">I'm from Brazil<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently working with Node.js<br>- ⚡ In my free time I study french</p>
+<p align="left">I'm from Brazil<br><br>- 🔭 I’m working as Freelancer<br>- 📚 I'm currently working with Node.js<br>- ⚡ In my free time I study french <br>- 🎓 Developer software at University @UniCesumar</p>
 
 ###
 
@@ -61,10 +45,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
 </div>
-
-###
-
-<h3 align="left">🔥   My Stats :</h3>
 
 ###
 
